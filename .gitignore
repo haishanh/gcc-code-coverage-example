@@ -1,0 +1,9 @@
+*/**/*.o
+*/**/*.so
+*/**/*.gcda
+*/**/*.gcno
+*/**/*.info
+basic/say
+auto/say
+cov/say
+auto/coverage/
